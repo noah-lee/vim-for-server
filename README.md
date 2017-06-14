@@ -1,4 +1,4 @@
-vim-for-server(forked from https://github.com/wklken/vim-for-server)
+vim-for-server
 ==============
 
 .vimrc, simple configures for server, without plugins.
